@@ -1,0 +1,173 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "0d881609b670e283c244",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\Gebruiker\\Documents\\school-stage\\dutchgamestudio\\build\\static",
+  "assetsByChunkName": {
+    "dutchgamestudio": [
+      "dutchgamestudio.module.js",
+      "dutchgamestudio.b34185526be5132761c6.hot-update.js"
+    ],
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "b34185526be5132761c6.hot-update.json",
+      "size": 57,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "dutchgamestudio.b34185526be5132761c6.hot-update.js",
+      "size": 21645,
+      "chunks": [
+        "dutchgamestudio"
+      ],
+      "chunkNames": [
+        "dutchgamestudio"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "dutchgamestudio.module.js",
+      "size": 6870619,
+      "chunks": [
+        "dutchgamestudio"
+      ],
+      "chunkNames": [
+        "dutchgamestudio"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/dgs-logo.png",
+      "size": 2262,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/dgs-logo.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/engagement-game.jpg",
+      "size": 111343,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/engagement-game.jpg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/entertaiment-game.jpg",
+      "size": 73268,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/entertaiment-game.jpg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/game-vr.jpg",
+      "size": 74260,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/game-vr.jpg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/serious-game.jpg",
+      "size": 103910,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/serious-game.jpg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/start_image.gif",
+      "size": 5114520,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/start_image.gif"
+      },
+      "emitted": false,
+      "isOverSizeLimit": true
+    },
+    {
+      "name": "list.module.js",
+      "size": 47417,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "dutchgamestudio": {
+      "chunks": [
+        "dutchgamestudio"
+      ],
+      "assets": [
+        "dutchgamestudio.module.js",
+        "dutchgamestudio.b34185526be5132761c6.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "dutchgamestudio": {
+      "chunks": [
+        "dutchgamestudio"
+      ],
+      "assets": [
+        "dutchgamestudio.module.js",
+        "dutchgamestudio.b34185526be5132761c6.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
